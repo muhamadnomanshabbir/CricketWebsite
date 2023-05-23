@@ -1,0 +1,85 @@
+nav {
+    background-color: #0dcb1a;
+    height: 7em;
+    width: 1520px;
+    position: fixed;
+    margin-top: -8px;
+    margin-left: -8px;
+    }
+    .links {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    float: left;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 50px;
+    margin-right: 200px;
+    margin-top: 20px;
+    }
+    nav .logo {
+    font-size: 25px;
+    font-weight: bold;
+    }
+    
+    .links:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    }
+    .right {
+    float: right;
+    }
+    .bb {
+    width: 1520px;
+    height: 500px;
+    margin-top: 104px;
+    margin-left: -8px;
+    }
+    .footer {
+    width: 1520px;
+    height: 70px;
+    background-color: #55f360;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: -4px;
+    margin-left: -8px;
+    }
+    .hh {
+    height: 40px;
+    width: 40px;
+    margin: 05px;
+    }
+    .Copyright {
+    background-color: #32d818;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    height: 50px;
+    width: 1520px;
+    font-size: 40px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    }
+    .li-1 {
+    height: 50px;
+    
+    margin-left: 110px;
+    }
+    .li-2 {
+    height: 50px;
+    margin-left: 250px;
+    }
+    .li-3 {
+    height: 50px;
+    margin-left: 200px;
+    }
+    .li-4 {
+    height: 50px;
+    margin-left: 200px;
+    }
+    .logoimage {
+    margin-top: 10px;
+    margin-left: 10px;
+    }
